@@ -1,3 +1,4 @@
-# NumPy Basics
-# Matplotlib Basics
-# Pandas
+# Basics:
+* NumPy 
+* Matplotlib 
+* Pandas
